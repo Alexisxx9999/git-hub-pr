@@ -1,0 +1,15 @@
+//configuracion inicial de git 
+
+-config --global user.name "alexis velez"
+-config --global user.email "alexisVelez@gmail.com"
+-config --global core.autocrlf  true // saltos de linea en windows
+-config --global user.ui true //colores  de git
+-config --global core.editor  "code --wait" // vsc como editor por defecto
+
+// para la inicializacion de una carpeta de git 
+- git init
+- crear un archivo md y un .gitignore
+- code .  : para abrir vsc por git bash 
+
+
+
